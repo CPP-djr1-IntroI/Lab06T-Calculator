@@ -74,34 +74,31 @@ Write a complete C++ program in the project called **Files** that reads
 a number of integers from a text file named **numbers.txt**. The
 sentinel value is -999. The following example data file has 12 values
 and a sentinel value of -999.
-
+<pre>
 2 3 5 7 8 10 12 13 15 1 11 15 -999
+</pre>
 
 Your program must print out to the screen each integer value (five
 values per line right justified in a field of 3). After outputting all
 values, output the number of integers read (excluding the sentinel
 value), the sum of all numbers, and SORTED if the values are in order
-from smallest to largest; otherwise, output NOT SORTED.\
-\
+from smallest to largest; otherwise, output NOT SORTED.
+
 HINT: Write and test the code to produce the Count, then the Sum, then
 the SORTED portion of the project.
 
-\*\*\* Files Are Fun \*\*\*
-
-2 3 5 7 8
-
-10 12 13 15 1
-
+*** Files Are Fun ***
+<pre>
+ 2  3  5  7  8
+10 12 13 15  1
 11 15
 
 Count: 12
-
 Sum: 102
-
 NOT SORTED
-
+</pre>
 Testing: Test your input on these input files.
-
+<pre>
 **Sample #1**
 
 1 2 3 4 5 6 7 8 -999
@@ -117,15 +114,27 @@ Testing: Test your input on these input files.
 **Sample #4**
 
 1 -999
+</pre>
 
-**[Show the instructor or TA your solution]{.ul}**
+**To complete this assignment you must submit the following:**
 
-1.  Your program is to compile without any errors or warnings.
+1.  **An electronic Solution of your program on GitHub**
 
-2.  Do not use any magic constants in your program.
+    a.  You are to click on the Lab06 Link on The C++ Tutorials in the section Data Input to accept this
+        assignment as we've done before. Once accepted, code up a
+        complete solution to each project specified above. Your
+        complete solution is to be pushed to GitHub no later than the
+        date and time specified above for your specific section. I will
+        only grade your solution from the proper location on GitHub.
 
-3.  Make sure your editor guideline is set to column 72 and that no
-    > characters go past that column.
+    b.  Pay attention to the example output above. Your program's output
+        must look **exactly** like the example output! The spacing and
+        newlines in your output must match exactly.
 
-4.  Commit and push your solutions regularly. Remember, your final
-    > solutions are due by this **Friday at 5PM.**
+    c.  Make sure that your program compiles and runs correctly with no
+        errors and no warnings. If you get any errors, double check that
+        you typed everything correctly. Be aware that C++ is
+        case-sensitive.
+
+2.  **An electronic pdf (punetidLab05SpeedConversion.pdf) 
+of your program is to be emailed to ryandj@pacificu.edu**

@@ -136,5 +136,5 @@ Testing: Test your input on these input files.
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic pdf (punetidLab05SpeedConversion.pdf) 
+2.  **An electronic pdf (punetidLab06Calculator.pdf) 
 of your program is to be emailed to ryandj@pacificu.edu**

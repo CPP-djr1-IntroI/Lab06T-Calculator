@@ -99,19 +99,19 @@ NOT SORTED
 </pre>
 Testing: Test your input on these input files.
 <pre>
-**Sample #1**
+<b>Sample #1</b>
 
 1 2 3 4 5 6 7 8 -999
 
-**Sample #2**
+<b>Sample #2</b>
 
 2 3 5 7 8 10 12 13 15 1 11 15 -999
 
-**Sample #3**
+<b>Sample #3</b>
 
 -999
 
-**Sample #4**
+<b>Sample #4</b>
 
 1 -999
 </pre>
